@@ -1,0 +1,15 @@
+{
+    "mainaccount": {
+      "userID": 111111,
+      "login": "AccountToBoost",
+      "password": "Password",
+      "message": "Boost!"
+    },
+    "botaccount": {
+      "userID": 111111,
+      "login": "UselessAccount",
+      "password": "Password",
+      "message": "Boosting!"
+    }
+  }
+  
