@@ -31,7 +31,8 @@ cat > config.json <<EOF
       "message": "Boosting!"
     }
   }
-  
+EOF
+
 # run
 python3 streak.py
 ```
