@@ -37,3 +37,4 @@ EOF
 python3 streak.py
 ```
 
+![image](https://github.com/user-attachments/assets/dc685171-0cd9-44c7-9b67-366f1af371b9)
